@@ -214,6 +214,8 @@
     text-indent: 50px;
     text-align: center;
     margin: 20px;
+    max-width: 1000px;
+    margin-left: 100px;
 }
 
 
@@ -222,7 +224,7 @@
 .pinguim img {
     width: 70%;
     height: auto;
-    max-width: 1080px;
+    max-width: 500px;
     border-radius: 100%;
     margin: auto;
     position: relative;
