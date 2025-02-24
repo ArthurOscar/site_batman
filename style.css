@@ -50,8 +50,9 @@
 #imagem-batman {
     display: flex;
     margin: 30px;
-    font-size: 30px;
+    font-size: 60px;
     text-align: justify;
+    color: green;
 }
 
 
